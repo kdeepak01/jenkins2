@@ -1,2 +1,3 @@
 touch /var/jenkins_home/jenkinsDee
-echo "DEVOPS"
+touch /var/jenkins_home/jen
+
