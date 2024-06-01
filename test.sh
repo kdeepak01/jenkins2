@@ -1,2 +1,2 @@
-touch /var/jenkins_home/nfsData
-echo "Hi"
+touch /var/jenkins_home/jenkinsDee
+echo "DEVOPS"
